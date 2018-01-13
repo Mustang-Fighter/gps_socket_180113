@@ -1,0 +1,12 @@
+Desktop
+Documents
+Downloads
+helloqt
+helloqt-build-desktop-Qt_4_8_5__qt4_8_5__Release
+lab
+minicom.log
+Music
+Pictures
+Public
+Templates
+Videos
