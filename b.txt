@@ -1,3 +1,10 @@
 bbb
 bb
 b
+add_document
+b.txt
+c.txt
+d.txt
+mytest.txt
+update.sh
+update.sh~
